@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Krishal-Tha-Shrestha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me email:krishaltha.stha@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 Krishal-Tha-Shrestha/Krishal-Tha-Shrestha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
